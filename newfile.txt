@@ -1,2 +1,5 @@
 Assignment 1:
 First we are using git init to initilize the repo
+
+Assignment 1:
+Added branch named as newbranch
